@@ -1,0 +1,92 @@
+[
+  {
+    "position": {
+      "x": -3.67912126,
+      "y": -0.564111352,
+      "z": 33.66853,
+      "normalized": {
+        "x": -0.108613074,
+        "y": -0.0166533981,
+        "z": 0.9939445,
+        "normalized": {
+          "x": -0.108613081,
+          "y": -0.0166534,
+          "z": 0.9939446,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 33.87365,
+      "sqrMagnitude": 1147.42407
+    },
+    "orientation": {
+      "x": 3.821371E-15,
+      "y": -1.0,
+      "z": 8.742278E-08,
+      "w": 4.371139E-08,
+      "eulerAngles": {
+        "x": 1.00179122E-05,
+        "y": 180.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 5.56550681E-08,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 4.513858,
+      "y": -0.7531111,
+      "z": 34.8377,
+      "normalized": {
+        "x": 0.12846458,
+        "y": -0.0214335751,
+        "z": 0.991482437,
+        "normalized": {
+          "x": 0.1284646,
+          "y": -0.0214335769,
+          "z": 0.9914825,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 35.136982,
+      "sqrMagnitude": 1234.60742
+    },
+    "orientation": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0,
+      "w": -4.371139E-08,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 180.0,
+        "sqrMagnitude": 32400.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  }
+]
